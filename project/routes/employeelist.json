@@ -1,0 +1,45 @@
+[
+{
+    "name": "King Nebu",
+    "position": "Manager",
+    "Department": "Operations Department",
+    "contact": "0244286380",
+    "image": "/images/king.jpg"
+},
+{
+    "name": "Zerubabel Amoah",
+    "position": "IT consultant",
+    "Department": "IT Department",
+    "contact": "0245879622",
+    "image": "/images/zeru.jpg"
+},
+{
+    "name": "Josia Nehu",
+    "position": "Customer Service",
+    "Department": "Delivery Department",
+    "contact": "0258963217",
+    "image": "/images/lady.jpg"
+},
+{
+    "name": "Zacharia Ehe",
+    "position": "Fault Consultant",
+    "Department": "Maintainance Department",
+    "contact": "0278963245",
+    "image":"/images/zacharia.jpg"
+},
+{
+    "name": "Anod Idrael",
+    "position": "Cleaner",
+    "Department": "Cleaning Department",
+    "contact": "0268578963",
+    "image": "/images/anod.jpg"
+},
+{
+    "name": "Emmanuel Tokyo",
+    "position": "Driver",
+    "Department": "Delivery Department",
+    "contact": "0247896321",
+    "image": "/images/emma.jpg"
+}
+
+]

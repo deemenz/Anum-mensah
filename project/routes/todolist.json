@@ -1,0 +1,36 @@
+[
+    {
+        "Section":" Operations Department ",
+
+        "task": "1.Verify all report from customer service 2.Sign pity cash cheque for the day  3.Sign new contrat with mills resturant"
+    },
+    {
+        "Section":"IT department",
+
+        "task": "1.Send customers deilvery date by email  2.Upload paid to delivery department 3.close all delivery for the day"
+    },
+    {
+        "Section":"Maintance department",
+
+        "task": "1.Service all faulty bikes 2. Release all  working bikes 3.Make report for faulty machines"
+    },
+    {
+        "Section":" Customer service ",
+
+        "task": "1.Call customers whose delivery is ready 2.Report total number of customers ready  3.Give dates to new customers"
+    }
+    ,
+    {
+        "Section":"Cleaning Department ",
+
+        "task": "1.Clean all wash rooms 2.Clean all sliding windows  3.Submits all cleaning materials needed  "
+    }
+    ,
+    {
+        
+        "Section":"Delivery department",
+
+        "task": "1.Service bikes 2.Prepare delivery items 3.Dispatch items by 5pm"
+    }
+
+]

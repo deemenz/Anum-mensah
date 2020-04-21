@@ -1,0 +1,23 @@
+{
+  "name": "easysoft",
+  "version": "1.0.0",
+  "description": "IA",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "first",
+    "trial"
+  ],
+  "author": "Derrick",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
